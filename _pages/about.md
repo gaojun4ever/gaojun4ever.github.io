@@ -29,6 +29,8 @@ I am currently a research intern at Tencent AI Lab. My recent research concentra
 ## Publications
 
 ### 2019
+- A Discrete CVAE for Response Generation on Short-Text Conversation. (EMNLP 2019)
+  **Jun Gao**, Wei Bi, Xiaojiang Liu, Junhui Li, Guodong Zhou and Shuming Shi
 - Fine-Grained Sentence Functions for Short-Text Conversation. (ACL 2019)
   Wei Bi, **Jun Gao**, Xiaojiang Liu and Shuming Shi
 - Generating Multiple Diverse Responses for Short-Text Conversation. (AAAI 2019)
