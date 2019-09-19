@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a second year master student at School of Computer Science and Technology, Soochow University, majoring in Natural Language Processing. I am supervised by Prof. Junhui Li. My research interest revolves around real-world problems related to natural languages and text information.
+Welcome! I am a final year master student at School of Computer Science and Technology, Soochow University, majoring in Natural Language Processing. I am supervised by Prof. Junhui Li. My research interest revolves around real-world problems related to natural languages and text information.
 
 I am currently a research intern at Tencent AI Lab. My recent research concentration is primarily on open-domain dialog systems.
 
