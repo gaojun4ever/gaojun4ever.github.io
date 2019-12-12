@@ -45,9 +45,3 @@ I am currently a research intern at Tencent AI Lab. My recent research concentra
   Python, Julia, Matlab, Java, C/C++, Nodejs
 - Toolkits
   Pytorch, Tensorflow, Git, Latex
-
-## Some Useful Links
-- Paper Reading: [S. Keshav’s advice](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-- Paper Writing: 
-  - Yang Liu’s 2014 CWMT Tutorial [[pdf](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)]
-  - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
