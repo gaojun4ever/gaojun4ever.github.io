@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me | Jun Gao"
+title                    : "Jun Gao's Site"
 title_separator          : "-"
 name                     : &name "Jun Gao"
 description              : &description "personal description"
 url                      : https://gaojun4ever.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gaojun4ever/gaojun4ever.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Jun Gao"
   avatar           : "profile.png"
-  bio              : "Be the change you can see in the world"
-  location         :
-  employer         : "Soochow University"
-  googlescholar    : "https://scholar.google.com/citations?user=toGGszoAAAAJ&hl=en"
+  bio              : "Mr. Nobody"
+  location         : #"Location"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=toGGszoAAAAJ&hl=zh-CN"
   email            : "imgaojun@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -174,9 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -186,7 +184,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  teaching:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
